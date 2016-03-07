@@ -1,28 +1,40 @@
-name: Coach Barrow
-favicon: null
 layout_spectrum: 0.0073
-typography_spectrum: 0.3128944009076804
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
-  brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
+  saturation: 0.5037234951741993
   brandStrength: 0.5177485225722194
   lightness: 0.8593869241885841
-  saturation: 0.5037234951741993
+  brandColors:
+    - '#ACABA4'
+    - '#926C3B'
+    - '#211D17'
+    - '#494439'
+    - '#911602'
   rhythmicContrast: 0.7726437179371715
-purpose: []
+typography_spectrum: 0.2862513
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: Coach Barrow
