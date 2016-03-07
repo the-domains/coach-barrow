@@ -1,7 +1,7 @@
 name: Coach Barrow
 favicon: null
 layout_spectrum: 0.0073
-typography_spectrum: 0.2862513
+typography_spectrum: 0.28625
 collections:
   - index:
       path: /
