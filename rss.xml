@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Coach, Speaker, Writer, Networker]]></title>
         <description><![CDATA[Coach, Speaker, Writer, Networker]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/coach-barrow/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 13 Mar 2016 14:47:05 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 13 Mar 2016 14:50:54 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/coach-barrow/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Chris Barrow has been active as a consultant, trainer and coach to the UK dental profession for over 23 years. </p>]]></description>
+            <link>https://thegrid.ai/coach-barrow/chris-barrow-has-been-active-as-a-consultant-trainer-and-co/index.html</link>
+            <guid isPermaLink="false">5e51460f-a672-49aa-acac-a1b96090b630</guid>
+            <pubDate>Sun, 13 Mar 2016 14:50:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/11df1f53-e137-4fa7-98d2-e6651d2fe072.jpg">]]></description>
-            <link>undefined3b6b0502-add1-4073-a272-aa110f3b0d9e/index.html</link>
+            <link>https://thegrid.ai/coach-barrow/3b6b0502-add1-4073-a272-aa110f3b0d9e/index.html</link>
             <guid isPermaLink="false">3b6b0502-add1-4073-a272-aa110f3b0d9e</guid>
             <pubDate>Sun, 13 Mar 2016 14:46:38 GMT</pubDate>
         </item>
