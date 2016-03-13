@@ -6,22 +6,26 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Chris Barrow has been active as a consultant, trainer and coach to the UK dental profession for over 23 years.\_"
-datePublished: '2016-03-13T14:50:16.736Z'
-dateModified: '2016-03-13T14:50:16.275Z'
-title: ''
+datePublished: '2016-03-13T15:14:23.198Z'
+dateModified: '2016-03-13T15:13:46.830Z'
+title: About Me
 author: []
+sourcePath: _posts/2016-03-13-chris-barrow-has-been-active-as-a-consultant-trainer-and-co.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-13-chris-barrow-has-been-active-as-a-consultant-trainer-and-co.md
-published: true
 url: chris-barrow-has-been-active-as-a-consultant-trainer-and-co/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/813bdbe8-d2f5-4deb-b865-c0cfa90cd391.jpg)
+
+# About Me
+
 Chris Barrow has been active as a consultant, trainer and coach to the UK dental profession for over 23 years. 
 
 Naturally direct, assertive and determined, he has the ability to reach conclusions quickly, as well as the sharp reflexes and lightness of touch to innovate, change tack and push boundaries. 
